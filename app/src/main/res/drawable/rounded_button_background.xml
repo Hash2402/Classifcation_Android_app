@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE"/> <!-- Primary color for buttons -->
+    <corners android:radius="25dp"/> <!-- Rounded corners for buttons -->
+    <padding
+        android:left="16dp"
+        android:right="16dp"
+        android:top="10dp"
+        android:bottom="10dp"/>
+    <elevation android:shadowColor="#000000" android:elevation="8dp"/>
+</shape>

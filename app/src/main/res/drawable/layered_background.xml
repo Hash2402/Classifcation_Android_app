@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#00BFFF"
+                android:endColor="#1E90FF"
+                android:angle="270"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/overlay_background"/>
+</layer-list>
