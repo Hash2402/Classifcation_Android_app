@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CV_Part2</string>
+    <string name="classification_result">Classification result: %1$.2f</string>
+    <string name="error_loading_model">Error loading model: %1$s</string>
+    <string name="error_during_classification">Error during classification: %1$s</string>
+    <string name="image_loading_error">Error loading image: %1$s</string>
+</resources>
